@@ -15,3 +15,5 @@ In backend machine learning technique called Content Based Filtering is running 
 3. Also Data was taken from WikiPedia
 
 Here is short demo of Android Application that used this Api -> [Click Here](https://appetize.io/app/5mdxgjpppfx7fttnv9f1bdf6tm)
+
+<p align=center><img src="recording.gif" width="230" height="400" /></p>
