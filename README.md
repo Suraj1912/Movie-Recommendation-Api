@@ -14,6 +14,6 @@ In backend machine learning technique called Content Based Filtering is running 
 2. [The Movies Dataset](https://www.kaggle.com/rounakbanik/the-movies-dataset)
 3. Also Data was taken from WikiPedia
 
-Here is short demo of Android Application that used this Api -> [Click Here](https://appetize.io/app/5mdxgjpppfx7fttnv9f1bdf6tm)
+Here is short demo of Android Application that used this Api
 
 <p align=center><img src="recording.gif" width="230" height="400" /></p>
